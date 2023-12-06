@@ -31,7 +31,7 @@
     - 1 checkbox
       - I want to subscribe to the newsletter
   - 1 textarea
-    - What are some ways (non-vr related) that you stay fit?
+    - Suggestions
   - Appropriate labels
   - 1 button
     - submit button
